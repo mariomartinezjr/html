@@ -1,0 +1,46 @@
+
+
+h1 {
+
+color: blue;
+text-align: center;
+text-transform: uppercase;
+font-family: 'Anton', sans-serif;
+
+}
+
+p {
+
+text-align: justify;
+font-family: 'Play', sans-serif;
+font-size: 20px;
+padding-left: 5cm;
+padding-right: 5cm;
+padding-top: 1.5cm;
+}
+
+#titulos{
+	text-decoration: 2px 2px #ff0000;
+}
+
+#teste{
+
+	width: 400px;
+	height: 400px;
+	background-color: black;
+    border-color: red;
+	border-radius: 200px
+	border-width: 6px;
+
+}
+img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:solid ;
+    border-width: 6px;
+
+
+
+}
